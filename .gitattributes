@@ -1,4 +1,1 @@
 assets.psd filter=lfs diff=lfs merge=lfs -text
-assets\dataset.psd filter=lfs diff=lfs merge=lfs -text
-assets\europe_capitals_population_and_area.psd filter=lfs diff=lfs merge=lfs -text
-assets\paris_bounding_polygon.psd filter=lfs diff=lfs merge=lfs -text
